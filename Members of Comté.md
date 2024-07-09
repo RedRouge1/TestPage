@@ -9,7 +9,7 @@ The members of Comté are as follows:
 - Discord Manager
 - Events Manager
 - Access and Inclusivity Officer
-- Discipline
+- Discipline Secretary
 
 As a member of Comté, they are expected to attend meetings and to work in their role to help I-UPS function. Generally this does not exclusively make it so people work only within these specific boundaries and members typically help with events more generally too if able. 
 
@@ -37,7 +37,7 @@ This position helps manage the I-UPS discord servers, assists with server commun
 In the main I-UPS server, any events such as QOTD or I-UPS All Stars are the responsibilities of this role, working to ensure that they run smoothly.
 #### Access and Inclusivity Officer
 As A&I, this member is responsible ensuring any welfare concerns and accessibility concerns for the server are addressed. 
-#### Discipline Sec
+#### Discipline Secretary
 The responsibilities of this role involve helping handle any server warnings, bans and conflict. 
 ### Roles being retired
 The following roles will no longer exist after this election cycle:

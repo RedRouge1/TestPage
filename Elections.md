@@ -6,9 +6,9 @@ I-UPS elections will take place in two main parts, nominations and elections, bo
 As part of the new rules, positions are open for a term of at **most 3 years** before they must be re-opened to nominations. 
 ### Which roles will be open this cycle
 In this election cycle the following roles will be open for nominations:
-- University Liaison
-- Social Media Secretary
 - Events Manager
+- Social Media Manager
+- University Liaison
 
 More information about these roles can be found [here](./Members%20of%20Comté).
 ### Returning Officer
