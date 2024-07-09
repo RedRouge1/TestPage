@@ -1,6 +1,6 @@
 # Elections
 I-UPS will be holding it's first ever election cycle. As to stagger the elections, a third of all roles will be up for election. Over the last few years, the goals of I-UPS have shifted and changes as our membership has and the roles we require has as well. Due to this, we will be rearranging the roles that exist and removing some roles. 
-## How will the elections be carried out
+## How will the elections be run
 I-UPS elections will take place in two main parts, nominations and elections, both of which will last a week. 
 
 As part of the new rules, positions are open for a term of at **most 3 years** before they must be re-opened to nominations. 
@@ -9,7 +9,8 @@ In this election cycle the following roles will be open for nominations:
 - University Liaison
 - Social Media Secretary
 - Events Manager
-More information about these roles can be found [here]().
+
+More information about these roles can be found [here](./Members%20of%20Comté.md).
 ### Returning Officer
 Elections are to be ran by the Returning Officer, who will be responsible for organisation and running of the election. This is typically the Chair/Secretary of Comté. They **must be impartial** in the election. As a result they cannot be running for any position on Comté nor can they vote in the election, either by part of Comté or their own university. Multiple officers may be chosen if necessary, however they will each be under the same restrictions. 
 
@@ -46,53 +47,3 @@ The votes will be counted by the Returning Officer, and will remain stored for t
 Should in the very unlikely event the vote is tied, then the Returning Officer will break the tie.
 #### Election Canvasing
 Any member standing for election may only post election material in designated locations. You must not post about it in the general I-UPS server, any I-UPS side servers or in any university society server. Severe or repeated breaking of this will be grounds for removal from the election at the suggestion of the Returning Officer.
-
-## Members of Comté
-The members of Comté are as follows:
-- Chair
-- Secretary
-- University Liaison
-- Social Media Secretary
-- Technical Officer
-- Discord Manager
-- Events Manager
-- A&I
-- Discipline
-
-As a member of Comté, they are expected to attend meetings and to work in their role to help I-UPS function. Generally this does not exclusively make it so people work only within these specific boundaries and members typically help with events more generally too if able. 
-
-Only the core members of Comté, as listed above, are considered voting members. Anyone that is co-opted onto the committee or is invited to a meeting may be involved in discussion but not the final vote. 
-
-### Co-opted members
-People who are regularly interacting with the members of Comté and have a need to attend meetings can become co-opted members. As part of this, members gain access to the drive and other benefits of being on Comté however they do not gain voting rights. 
-
-The number of co-opted members should be kept to a minimum. 
-
-### Role Descriptions
-#### Chair
-Responsible for ensuring the smooth running of I-UPS as a whole. Needs to remain in contact with 
-#### Secretary
-Meetings stuff
-#### Uni Liaison
-#### Social Media Sec
-
-#### Web Manager
-
-#### Discord Manager
-
-#### Events Manager
-
-#### Access and Inclusivity 
-
-#### Discipline Sec
-This name needs changing
-
-### Roles being retired
-The following roles will no longer exist after this election cycle:
-- Treasurer
-- General Comté x3
-#### Treasurer
-This role was created when I-UPS first started. The Triad as they were known had many ideas some of which would have involved money. We no longer have this aim, and the role has never acted as such and currently sits empty after the previous election attempt.- 
-
-#### General Comté
-Thiandnwilajlwdajli
