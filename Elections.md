@@ -1,5 +1,5 @@
-# Elections
-I-UPS will be holding it's first ever election cycle. As to stagger the elections, a third of all roles will be up for election. Over the last few years, the goals of I-UPS have shifted and changes as our membership has and the roles we require has as well. Due to this, we will be rearranging the roles that exist and removing some roles. 
+# I-UPS Election Period
+I-UPS will be holding it's first ever election cycle. As to stagger the elections, a third of all roles will be up for election. Over the last few years, the goals of I-UPS have shifted and changed as our membership has and the roles we require have as well. Due to this, we will be rearranging the roles that exist and removing some roles. 
 ## How will the elections be run
 I-UPS elections will take place in two main parts, nominations and elections, both of which will last a week. 
 
@@ -34,7 +34,7 @@ Any positions with nominations will have all candidates listed as well as Re-Ope
 
 Equally if any positions do not receive any nominations then they will remain unfilled till another election can be held. This is before the following years election period. 
 
-If any after this the post is unfilled it will remain so until the following year. 
+If after this the post is unfilled it will remain so until the following year. 
 #### Who is eligible to vote
 Anyone that is considered member of an affiliated Pokémon Society or equivalent group may be involved in the voting. This also means alumni are able to vote via their institutions. 
 #### How will voting be counted
@@ -44,6 +44,6 @@ Each university will get a single vote as well as Comté which gets a single col
 
 The votes will be counted by the Returning Officer, and will remain stored for two weeks after the election unless any objections are raised where this will be extended until the matter is resolved. Anyone who stood in the election as such cannot be given access to the main account until after the votes are discarded. 
 
-Should in the very unlikely event the vote is tied, then the Returning Officer will break the tie.
+In the very unlikely event the vote is tied, then the Returning Officer will break the tie.
 #### Election Canvasing
-Any member standing for election may only post election material in designated locations. You must not post about it in the general I-UPS server, any I-UPS side servers or in any university society server. Severe or repeated breaking of this will be grounds for removal from the election at the suggestion of the Returning Officer.
+Any member standing for election may only post election material in designated locations. You must not post about it in the general I-UPS server, any I-UPS side servers or in any university society server without permission. Severe or repeated violations of these rules will be grounds for removal from the election, judged at the discretion of the Returning Officer
