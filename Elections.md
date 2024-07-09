@@ -10,7 +10,7 @@ In this election cycle the following roles will be open for nominations:
 - Social Media Secretary
 - Events Manager
 
-More information about these roles can be found [here](./Members%20of%20Comté.md).
+More information about these roles can be found [here](./Members%20of%20Comté).
 ### Returning Officer
 Elections are to be ran by the Returning Officer, who will be responsible for organisation and running of the election. This is typically the Chair/Secretary of Comté. They **must be impartial** in the election. As a result they cannot be running for any position on Comté nor can they vote in the election, either by part of Comté or their own university. Multiple officers may be chosen if necessary, however they will each be under the same restrictions. 
 
