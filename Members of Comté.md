@@ -43,6 +43,7 @@ The responsibilities of this role involve helping handle any server warnings, ba
 The following roles will no longer exist after this election cycle:
 - Treasurer
 - General Comté x3
+
 #### Treasurer
 This role was created when I-UPS first started. The Triad as they were known had many ideas some of which would have involved money. We no longer have this aim, and the role has never acted as such and currently sits empty after the previous election attempt.
 #### General Comté
