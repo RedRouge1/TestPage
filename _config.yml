@@ -2,5 +2,5 @@ theme: jekyll-theme-slate
 show_downloads: false
 github.is_project_page: false
 description: "Test"
-page_title: "Test Page"
+title: "Test Page"
 
