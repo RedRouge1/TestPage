@@ -8,6 +8,7 @@ The members of Comté are as follows:
 - Web Manager
 - Discord Manager
 - Events Manager
+- Socials Manager
 - Access and Inclusivity Officer
 - Discipline Secretary
 
