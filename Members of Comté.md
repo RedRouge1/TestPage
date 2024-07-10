@@ -23,7 +23,7 @@ The members of Comté are as follows:
 As a member of Comté, they are expected to attend meetings and to work in their role to help I-UPS function. Generally this does not exclusively make it so people work only within these specific boundaries and members typically help with events more generally if able. 
 
 Only the core members of Comté, as listed above, are considered voting members. Anyone that is co-opted onto the committee or is invited to a meeting may be involved in discussion but not the final vote. 
-## Co-opted members
+### Co-opted members
 People who are regularly interacting with the members of Comté and have a need to attend meetings can become co-opted members. As part of this, members gain access to the drive and other benefits of being on Comté however they do not gain voting rights. 
 
 The number of co-opted members should be kept to a minimum and are to be organised with the Chair. 
