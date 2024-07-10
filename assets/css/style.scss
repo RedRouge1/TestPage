@@ -35,6 +35,26 @@ footer {
   -ms-box-shadow: 0 0 0px #ebebeb;
 }
 
+.iups-picture {
+  position: relative;
+  margin: 0 auto;
+  padding: 0px;
+  margin: 0px 0 0px 0;
+  border: 0px;
+
+  /*float: left;*/
+  /*width: 100px;*/
+  /*height: 100px;*/
+  /*background: #555;*/
+  /*border: 0*/
+  /*now to undo the border they put on by default*/
+  box-shadow: 0 0 0px #ebebeb;
+  -webkit-box-shadow: 0 0 0px #ebebeb;
+  -moz-box-shadow: 0 0 0px #ebebeb;
+  -o-box-shadow: 0 0 0px #ebebeb;
+  -ms-box-shadow: 0 0 0px #ebebeb;
+}
+
 .btn {
   display: none !important;
 }
