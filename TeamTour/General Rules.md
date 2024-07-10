@@ -101,6 +101,10 @@ Out of your potential 8 team members:
 All team members must join the tour's Discord server to take part. 
 ### Team Captain
 From your team, one player will be designated as team captain. They will be responsible for communicating with the tour moderators, managing your team, and ensuring any messages from the moderators are received by your team and understood. 
+
+
+Sign up here!
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf_0Ft6jidt4lbhQaucpg2LdZpMNie1BdGS4m2IlMbTleqGsQ/viewform?embedded=true" width="640" height="3006" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ### Substitutes:
 In previous years we have had teams assign substitutes. To follow on from the changes we made last year to allow players to change format week on week we will be removing the distinction between players and substitutes.
 
