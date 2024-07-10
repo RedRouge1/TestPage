@@ -7,7 +7,7 @@ meta_description: Find out about the 2024 election cycle, which roles are up for
 # I-UPS Election Period
 I-UPS will be holding it's first ever election cycle. As to stagger the elections, a third of all roles will be up for election. Over the last few years, the goals of I-UPS have shifted and changed as our membership has and the roles we require have as well. Due to this, we will be rearranging the roles that exist and removing some roles. You can apply using the form below which can also be found [here](https://forms.gle/41zkTQjf8zHbqrNr5).
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScRZffqxqOfFSe8Ua9NFM1YEs0ZKnbMetJgBHdcWYRDw_xDqw/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScRZffqxqOfFSe8Ua9NFM1YEs0ZKnbMetJgBHdcWYRDw_xDqw/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## How will the elections be run
 I-UPS elections will take place in two main parts, nominations and elections, both of which will last a week. 
