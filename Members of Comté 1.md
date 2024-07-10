@@ -1,3 +1,9 @@
+---
+layout: test1
+title: Team Tour Rules
+example: This is an example value.
+---
+
 This is a list of Comté members that is provided alongside the general election material which can be found [here](./Elections).
 ## Members of Comté
 The members of Comté are as follows:
