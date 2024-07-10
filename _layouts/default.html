@@ -52,11 +52,12 @@ body {
               alt="I-UPS Comté Elections 2024">
           </picture>
           -->
-          <img class="iups-img"
+          <div class="flex-container">
+            <img class="iups-img"
               src="img/IUPSComteElections2024small.png" 
-              style="width:465px;border:0;max-width: 90%;max-height: 200vh;"
+              style="width:465px;border:0;max-width: 90%;max-height: 200vh;display: inline;"
               alt="I-UPS Comté Elections 2024">
-          
+          </div>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           {% if site.show_downloads %}
