@@ -1,7 +1,7 @@
 ---
 title: Election Information 
 meta_title: Election Information 
-meta_description: Find out about how the 2024 election cycle will be carried out.
+meta_description: Find out about the 2024 election cycle, which roles are up for election and how voting will be counted.
 ---
 
 # I-UPS Election Period
