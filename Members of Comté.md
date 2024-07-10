@@ -1,7 +1,7 @@
 ---
 title: Comté Structure
 meta_title: Comté Structure
-meta_description: Find out what roles exist within Comté.
+meta_description: Find out what roles exist within Comté and learn about any roles you may wish to apply to.
 ---
 
 # Comté
