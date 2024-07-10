@@ -39,7 +39,7 @@ The Events Manager involves running any competitive or non-social events. They w
 ### Social Media Manager
 They are responsible for organising the social media presence for I-UPS, working with other members of Comté to organise for upcoming events.
 ### Web Manager
-Something the great Quag says....
+Writes and maintains I-UPS web applications including the main website, scavenger hunt and event display boards. Oversees the implementation of technical requirements and manages society repositories.
 ### Discord Manager
 This position helps manage the I-UPS discord servers, assists with server communications where needed and manages bots in the server.
 ### Socials Manager
