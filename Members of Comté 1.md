@@ -1,10 +1,12 @@
 ---
-layout: test1
-title: Team Tour Rules
-example: This is an example value.
+title: Comté Structure
+meta_title: Comté Structure
+meta_description: Find out what roles exist within Comté.
 ---
 
-This is a list of Comté members that is provided alongside the general election material which can be found [here](./Elections).
+# Comté
+Comté is the group who organise and help run events for I-UPS. This is a list of Comté members which is being provided alongside the general election material which can be found [here](./Elections).
+
 ## Members of Comté
 The members of Comté are as follows:
 - Chair
@@ -18,10 +20,10 @@ The members of Comté are as follows:
 - Access and Inclusivity Officer
 - Discipline Secretary
 
-As a member of Comté, they are expected to attend meetings and to work in their role to help I-UPS function. Generally this does not exclusively make it so people work only within these specific boundaries and members typically help with events more generally too if able. 
+As a member of Comté, they are expected to attend meetings and to work in their role to help I-UPS function. Generally this does not exclusively make it so people work only within these specific boundaries and members typically help with events more generally if able. 
 
 Only the core members of Comté, as listed above, are considered voting members. Anyone that is co-opted onto the committee or is invited to a meeting may be involved in discussion but not the final vote. 
-### Co-opted members
+## Co-opted members
 People who are regularly interacting with the members of Comté and have a need to attend meetings can become co-opted members. As part of this, members gain access to the drive and other benefits of being on Comté however they do not gain voting rights. 
 
 The number of co-opted members should be kept to a minimum and are to be organised with the Chair. 
