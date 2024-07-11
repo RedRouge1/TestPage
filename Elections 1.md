@@ -3,6 +3,8 @@ I-UPS will be holding it's first ever election cycle. As to stagger the election
 ## How will the elections be run
 I-UPS elections will take place in two main parts, nominations and elections, both of which will last a week. 
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSew_CqoXlPpVAd86UQBtSqpMf9OWVpM_fYvvv3Fszk5D5bt2w/viewform?embedded=true" width="640" height="1431" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 As part of the new rules, positions are open for a term of at **most 3 years** before they must be re-opened to nominations. 
 ### Which roles will be open this cycle
 In this election cycle the following roles will be open for nominations:
